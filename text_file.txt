@@ -1,1 +1,21 @@
 this is a text file created on my laptop.
+--------------------------------------
+git add text_file.text
+git commit -m "text_file created on dell"
+git remote add origin git@github.com:cristian-dinu-69/LEARN_GIT_Day2_EX.git
+git branch -M main
+git status
+git push -u origin main
+
+create file on GitHub.com
+
+git fecth
+
+git checkout origin/main
+
+git switch main
+
+git pull - supracrie pe dell ce e in GitHub.com
+
+
+
